@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+.iphonepro{
+    color: white;
+    text-align: center;
+    height: 50vh;
+  background-color:black;
+  background-image: url(../img/iphone11pro.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+
+  font-size: 17px;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: -.022em;
+  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-style: normal;
+}
+.info{
+    text-decoration: none;
+    color: #6bf;  
+    
+}
+h4{
+    color: grey;
+}
+.iphone{
+    color: black;
+    text-align: center;
+    height: 50vh;
+  background-color:black;
+  background-image: url(../img/iphone11.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  font-size: 17px;
+  line-height: 1.47059;
+  font-weight: 400;
+  letter-spacing: -.022em;
+  font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  font-style: normal;
+}
+
+
+.watch{
+  color: black;
+    text-align: center;
+    height: 70vh;
+  background-color:black;
+  background-image: url(../img/applewatch.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
+}
+  
